@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/photography/static/css/main.e76ded17.css",
-    "main.js": "/photography/static/js/main.c183d501.js",
+    "main.css": "/photography/static/css/main.f9730739.css",
+    "main.js": "/photography/static/js/main.7bd978ed.js",
     "static/media/FC_two_phones_1.png": "/photography/static/media/FC_two_phones_1.a27b9572c0ec3355f694.png",
-    "static/media/FC_two_phones_2.png": "/photography/static/media/FC_two_phones_2.dc0d97629b8eb2fe76f8.png",
     "static/media/8.jpg": "/photography/static/media/8.9aa8893952c71322ff0a.jpg",
     "static/media/6.jpg": "/photography/static/media/6.aa8689afbb5258428919.jpg",
     "static/media/9.jpg": "/photography/static/media/9.5ba507dde257ed931362.jpg",
     "static/media/2.jpg": "/photography/static/media/2.7472ec88388d2c3f7fbb.jpg",
     "static/media/4.jpg": "/photography/static/media/4.128ed0c67014a293ad6d.jpg",
-    "static/media/1.jpg": "/photography/static/media/1.e04bcac53f26ea3213af.jpg",
+    "static/media/1.jpg": "/photography/static/media/1.c293d90868d6ddd01dd0.jpg",
     "static/media/0.jpg": "/photography/static/media/0.cd2e993cb8f188357d7b.jpg",
     "static/media/5.jpg": "/photography/static/media/5.82d46b7f05edefe9aa6f.jpg",
     "static/media/3.jpg": "/photography/static/media/3.a63b1149845efdaf6763.jpg",
     "static/media/7.jpg": "/photography/static/media/7.02e7e51fdf64e8d9a36b.jpg",
     "static/media/NIKOLENKOTE.png": "/photography/static/media/NIKOLENKOTE.695affafef2db53049a0.png",
     "index.html": "/photography/index.html",
-    "main.e76ded17.css.map": "/photography/static/css/main.e76ded17.css.map",
-    "main.c183d501.js.map": "/photography/static/js/main.c183d501.js.map"
+    "main.f9730739.css.map": "/photography/static/css/main.f9730739.css.map",
+    "main.7bd978ed.js.map": "/photography/static/js/main.7bd978ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.e76ded17.css",
-    "static/js/main.c183d501.js"
+    "static/css/main.f9730739.css",
+    "static/js/main.7bd978ed.js"
   ]
 }
