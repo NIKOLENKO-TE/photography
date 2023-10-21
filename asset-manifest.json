@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/photography/static/css/main.d800db1e.css",
-    "main.js": "/photography/static/js/main.449511fa.js",
+    "main.js": "/photography/static/js/main.20a61703.js",
     "static/media/FC_two_phones_1.png": "/photography/static/media/FC_two_phones_1.a27b9572c0ec3355f694.png",
     "static/media/8.jpg": "/photography/static/media/8.9aa8893952c71322ff0a.jpg",
     "static/media/6.jpg": "/photography/static/media/6.aa8689afbb5258428919.jpg",
@@ -16,10 +16,10 @@
     "static/media/NIKOLENKOTE.png": "/photography/static/media/NIKOLENKOTE.695affafef2db53049a0.png",
     "index.html": "/photography/index.html",
     "main.d800db1e.css.map": "/photography/static/css/main.d800db1e.css.map",
-    "main.449511fa.js.map": "/photography/static/js/main.449511fa.js.map"
+    "main.20a61703.js.map": "/photography/static/js/main.20a61703.js.map"
   },
   "entrypoints": [
     "static/css/main.d800db1e.css",
-    "static/js/main.449511fa.js"
+    "static/js/main.20a61703.js"
   ]
 }
