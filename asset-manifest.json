@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/photography/static/css/main.0a8d974c.css",
-    "main.js": "/photography/static/js/main.9faa4a4c.js",
+    "main.css": "/photography/static/css/main.ef843723.css",
+    "main.js": "/photography/static/js/main.3450d1c6.js",
     "static/media/FC_two_phones_1.png": "/photography/static/media/FC_two_phones_1.a27b9572c0ec3355f694.png",
-    "static/media/8.jpg": "/photography/static/media/8.9aa8893952c71322ff0a.jpg",
-    "static/media/6.jpg": "/photography/static/media/6.aa8689afbb5258428919.jpg",
-    "static/media/9.jpg": "/photography/static/media/9.5ba507dde257ed931362.jpg",
-    "static/media/2.jpg": "/photography/static/media/2.7472ec88388d2c3f7fbb.jpg",
-    "static/media/4.jpg": "/photography/static/media/4.128ed0c67014a293ad6d.jpg",
+    "static/media/8.jpg": "/photography/static/media/8.6b35af1a691693b7e32b.jpg",
+    "static/media/6.jpg": "/photography/static/media/6.4065db6218ab4dc6af20.jpg",
+    "static/media/9.jpg": "/photography/static/media/9.e5bdc59470bf73f08478.jpg",
+    "static/media/2.jpg": "/photography/static/media/2.c7e568c86961d6f3ce00.jpg",
+    "static/media/4.jpg": "/photography/static/media/4.30b7995b0c3d835379a8.jpg",
     "static/media/1.jpg": "/photography/static/media/1.c293d90868d6ddd01dd0.jpg",
-    "static/media/0.jpg": "/photography/static/media/0.cd2e993cb8f188357d7b.jpg",
-    "static/media/5.jpg": "/photography/static/media/5.82d46b7f05edefe9aa6f.jpg",
-    "static/media/3.jpg": "/photography/static/media/3.a63b1149845efdaf6763.jpg",
-    "static/media/7.jpg": "/photography/static/media/7.02e7e51fdf64e8d9a36b.jpg",
-    "static/media/NIKOLENKOTE.png": "/photography/static/media/NIKOLENKOTE.695affafef2db53049a0.png",
+    "static/media/5.jpg": "/photography/static/media/5.74c48d422a12bd0cb600.jpg",
+    "static/media/0.jpg": "/photography/static/media/0.8272b9a7e00c9600de0f.jpg",
+    "static/media/3.jpg": "/photography/static/media/3.3ff69531728ee9b25564.jpg",
+    "static/media/7.jpg": "/photography/static/media/7.24bea988ebea562745c1.jpg",
+    "static/media/NIKOLENKOTE_PHOTO_BW.png": "/photography/static/media/NIKOLENKOTE_PHOTO_BW.e45ccab30861ef72ff4c.png",
     "index.html": "/photography/index.html",
     "static/media/DE.svg": "/photography/static/media/DE.5ecb36e20d4b7baf5c69207ce408357c.svg",
-    "main.0a8d974c.css.map": "/photography/static/css/main.0a8d974c.css.map",
-    "main.9faa4a4c.js.map": "/photography/static/js/main.9faa4a4c.js.map"
+    "main.ef843723.css.map": "/photography/static/css/main.ef843723.css.map",
+    "main.3450d1c6.js.map": "/photography/static/js/main.3450d1c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a8d974c.css",
-    "static/js/main.9faa4a4c.js"
+    "static/css/main.ef843723.css",
+    "static/js/main.3450d1c6.js"
   ]
 }
