@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/photography/static/css/main.906d4b39.css",
-    "main.js": "/photography/static/js/main.55718a93.js",
-    "static/media/FC_two_phones_1.png": "/photography/static/media/FC_two_phones_1.a27b9572c0ec3355f694.png",
+    "main.css": "/photography/static/css/main.ae34c989.css",
+    "main.js": "/photography/static/js/main.d2dab7e2.js",
     "static/media/Restoration6Final.jpg": "/photography/static/media/Restoration6Final.0cc210c2e5ac346f39bf.jpg",
     "static/media/Restoration2Final.jpg": "/photography/static/media/Restoration2Final.29f20ffbe6db541ad172.jpg",
     "static/media/Restoration3Final.jpg": "/photography/static/media/Restoration3Final.4e8038a4a14fe702a23a.jpg",
@@ -10,6 +9,7 @@
     "static/media/6.jpg": "/photography/static/media/6.77d8bae34a318deaf0dc.jpg",
     "static/media/Restoration5Final.jpg": "/photography/static/media/Restoration5Final.ab8a8df5fcbc532c0263.jpg",
     "static/media/Restoration4Final.jpg": "/photography/static/media/Restoration4Final.8b806799ea9fb0198e23.jpg",
+    "static/media/FC_two_phones_1.png": "/photography/static/media/FC_two_phones_1.0b1d3440f2d41c8a4ef1.png",
     "static/media/8.jpg": "/photography/static/media/8.23d63920aa941dbd0c45.jpg",
     "static/media/2.jpg": "/photography/static/media/2.b34a2d0a85bb6f859860.jpg",
     "static/media/9.jpg": "/photography/static/media/9.47db628c0302632a1a4a.jpg",
@@ -19,16 +19,21 @@
     "static/media/5.jpg": "/photography/static/media/5.f774871ea5feeded0359.jpg",
     "static/media/1.jpg": "/photography/static/media/1.589293110715bdd7356c.jpg",
     "static/media/0.jpg": "/photography/static/media/0.5c4ec49abdd5132092b3.jpg",
+    "static/media/2_flowers_1.jpg": "/photography/static/media/2_flowers_1.a2532eae79fc9608eef3.jpg",
     "static/media/Restoration2Original.jpg": "/photography/static/media/Restoration2Original.3425502318827850ed9b.jpg",
     "static/media/Restoration1Final.jpg": "/photography/static/media/Restoration1Final.1a2c10b17abbf93e0715.jpg",
+    "static/media/4_childrens_parties.jpg": "/photography/static/media/4_childrens_parties.6937f00aa6a380c7bf46.jpg",
     "static/media/Restoration6Original.jpg": "/photography/static/media/Restoration6Original.2686f970fa334c448727.jpg",
-    "static/media/Category1.jpg": "/photography/static/media/Category1.ccc0d289b4b6f3826ded.jpg",
     "static/media/7.jpg": "/photography/static/media/7.a71ebc3f48adf8314e34.jpg",
+    "static/media/6_humanitarian_aid.jpg": "/photography/static/media/6_humanitarian_aid.3f87c2465f6c006f2721.jpg",
+    "static/media/5_restorations.jpg": "/photography/static/media/5_restorations.af01aeddfa77d09f71ba.jpg",
     "static/media/3.jpg": "/photography/static/media/3.d07105059e36bcd67165.jpg",
+    "static/media/1_weddings.jpg": "/photography/static/media/1_weddings.f9834bcbe7ada1f7b868.jpg",
+    "static/media/7_war_medicine.jpg": "/photography/static/media/7_war_medicine.956deff0e0c73e4a74a9.jpg",
     "static/media/Restoration5Original.jpg": "/photography/static/media/Restoration5Original.565a4a9bedc92f4e995a.jpg",
-    "static/media/Category2.jpg": "/photography/static/media/Category2.80ffaf1056314507e650.jpg",
     "static/media/NIKOLENKOTE_PHOTO_BW.png": "/photography/static/media/NIKOLENKOTE_PHOTO_BW.e45ccab30861ef72ff4c.png",
     "static/media/3.price.png": "/photography/static/media/3.price.aed2fab4e8fff74bb9c1.png",
+    "static/media/3_photosessions.jpg": "/photography/static/media/3_photosessions.0090e09ce4d459c8f2f6.jpg",
     "static/media/5.delivery.png": "/photography/static/media/5.delivery.2386d979cfeaa01a473e.png",
     "static/media/arrow.png": "/photography/static/media/arrow.aaa4d1da71642a0d9dda.png",
     "static/media/2.message.png": "/photography/static/media/2.message.09828dd9c852ec285b24.png",
@@ -36,11 +41,11 @@
     "static/media/4.1.magic.png": "/photography/static/media/4.1.magic.2a2f2c712703c14b42d4.png",
     "static/media/1.send.png": "/photography/static/media/1.send.0078878c80fca0337cc5.png",
     "index.html": "/photography/index.html",
-    "main.906d4b39.css.map": "/photography/static/css/main.906d4b39.css.map",
-    "main.55718a93.js.map": "/photography/static/js/main.55718a93.js.map"
+    "main.ae34c989.css.map": "/photography/static/css/main.ae34c989.css.map",
+    "main.d2dab7e2.js.map": "/photography/static/js/main.d2dab7e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.906d4b39.css",
-    "static/js/main.55718a93.js"
+    "static/css/main.ae34c989.css",
+    "static/js/main.d2dab7e2.js"
   ]
 }
