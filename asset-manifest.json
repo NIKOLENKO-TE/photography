@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/photography/static/css/main.56ebf6a5.css",
-    "main.js": "/photography/static/js/main.226fa8c7.js",
+    "main.js": "/photography/static/js/main.e3e14142.js",
     "static/media/FC_two_phones_1.png": "/photography/static/media/FC_two_phones_1.eb2678f5a4a6e33e28cb.png",
     "static/media/6.jpg": "/photography/static/media/6.6128606ca3bd449b6e0b.jpg",
     "static/media/Restoration6Final.jpg": "/photography/static/media/Restoration6Final.8640f431f3e388a24469.jpg",
@@ -44,10 +44,10 @@
     "static/media/deFlag.svg": "/photography/static/media/deFlag.202dbcc02e84dae3ba8c022622d53e43.svg",
     "static/media/uaFlag.svg": "/photography/static/media/uaFlag.bf6ea1ce28490b2c476ed39c999e1f24.svg",
     "main.56ebf6a5.css.map": "/photography/static/css/main.56ebf6a5.css.map",
-    "main.226fa8c7.js.map": "/photography/static/js/main.226fa8c7.js.map"
+    "main.e3e14142.js.map": "/photography/static/js/main.e3e14142.js.map"
   },
   "entrypoints": [
     "static/css/main.56ebf6a5.css",
-    "static/js/main.226fa8c7.js"
+    "static/js/main.e3e14142.js"
   ]
 }
